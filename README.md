@@ -1,6 +1,6 @@
 ## 👋 Welcome to mi casa!
 
-### Portfolio
+### 📝 Portfolio
 - Languages: Python, C#, C++, JavaScript, TypeScript, Ruby
 - Frameworks: ASP.NET, Angular, Vue, Ruby on Rails
 
