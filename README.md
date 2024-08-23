@@ -1,4 +1,4 @@
-## 👋 Welcome to mi casa!
+## Welcome to mi casa!
 
 ### 📝 Portfolio
 - Languages: Python, C#, C++, JavaScript, TypeScript, Ruby
